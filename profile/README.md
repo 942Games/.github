@@ -1,8 +1,8 @@
 # Welcome to 942Games 🎮
 
 <p align="center">
-<img src="[https://github.com/user-attachments/assets/ae7eada1-6e7a-4ff5-8767-b3a2f1f7973c]" alt="942Games Studio Logo" />
-
+  <img src="https://github.com/user-attachments/assets/af541908-44e2-43d9-9e5d-f5e20de3f259" alt="942Games Studio Logo" />
+</p>
 
 
 
