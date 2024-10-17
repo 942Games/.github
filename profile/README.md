@@ -16,7 +16,6 @@ At 942Games, our mission is simple: **create games that we love to play**. Wheth
 - **Coming Soon!**: Keep an eye out for more exciting projects on the horizon!
 
 ## Follow Us
-- [Twitter/Other Socials]
-- [Website Link]
+- 
 
 Stay tuned as we continue to expand our portfolio and bring our ideas to life!
